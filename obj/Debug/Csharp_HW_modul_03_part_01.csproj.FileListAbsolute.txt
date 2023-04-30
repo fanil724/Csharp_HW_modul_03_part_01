@@ -1,0 +1,7 @@
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\bin\Debug\Csharp_HW_modul_03_part_01.exe
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\bin\Debug\Csharp_HW_modul_03_part_01.pdb
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\obj\Debug\Csharp_HW_modul_03_part_01.csproj.AssemblyReference.cache
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\obj\Debug\Csharp_HW_modul_03_part_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\obj\Debug\Csharp_HW_modul_03_part_01.csproj.CoreCompileInputs.cache
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\obj\Debug\Csharp_HW_modul_03_part_01.exe
+C:\Users\Фаниль\RiderProjects\Csharp_HW_modul_03_part_01\Csharp_HW_modul_03_part_01\obj\Debug\Csharp_HW_modul_03_part_01.pdb
